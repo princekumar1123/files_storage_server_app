@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PrinceRecent\\InternalDotNetProjects\\PracticeFilesInC#\\PDF_MVC_App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B25D026-A840-4154-8F23-61D455F2BFC0}|PDF_MVC_App\\PDF_MVC_App.csproj|d:\\princerecent\\internaldotnetprojects\\practicefilesinc#\\pdf_mvc_app\\pdf_mvc_app\\views\\pdfdocuments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B25D026-A840-4154-8F23-61D455F2BFC0}|PDF_MVC_App\\PDF_MVC_App.csproj|solutionrelative:pdf_mvc_app\\views\\pdfdocuments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B25D026-A840-4154-8F23-61D455F2BFC0}|PDF_MVC_App\\PDF_MVC_App.csproj|d:\\princerecent\\internaldotnetprojects\\practicefilesinc#\\pdf_mvc_app\\pdf_mvc_app\\controllers\\pdfdocumentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B25D026-A840-4154-8F23-61D455F2BFC0}|PDF_MVC_App\\PDF_MVC_App.csproj|solutionrelative:pdf_mvc_app\\controllers\\pdfdocumentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B25D026-A840-4154-8F23-61D455F2BFC0}|PDF_MVC_App\\PDF_MVC_App.csproj|d:\\princerecent\\internaldotnetprojects\\practicefilesinc#\\pdf_mvc_app\\pdf_mvc_app\\models\\pdfdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B25D026-A840-4154-8F23-61D455F2BFC0}|PDF_MVC_App\\PDF_MVC_App.csproj|solutionrelative:pdf_mvc_app\\models\\pdfdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B25D026-A840-4154-8F23-61D455F2BFC0}|PDF_MVC_App\\PDF_MVC_App.csproj|d:\\princerecent\\internaldotnetprojects\\practicefilesinc#\\pdf_mvc_app\\pdf_mvc_app\\data\\pdf_mvc_appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B25D026-A840-4154-8F23-61D455F2BFC0}|PDF_MVC_App\\PDF_MVC_App.csproj|solutionrelative:pdf_mvc_app\\data\\pdf_mvc_appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B25D026-A840-4154-8F23-61D455F2BFC0}|PDF_MVC_App\\PDF_MVC_App.csproj|d:\\princerecent\\internaldotnetprojects\\practicefilesinc#\\pdf_mvc_app\\pdf_mvc_app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B25D026-A840-4154-8F23-61D455F2BFC0}|PDF_MVC_App\\PDF_MVC_App.csproj|solutionrelative:pdf_mvc_app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B25D026-A840-4154-8F23-61D455F2BFC0}|PDF_MVC_App\\PDF_MVC_App.csproj|d:\\princerecent\\internaldotnetprojects\\practicefilesinc#\\pdf_mvc_app\\pdf_mvc_app\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B25D026-A840-4154-8F23-61D455F2BFC0}|PDF_MVC_App\\PDF_MVC_App.csproj|solutionrelative:pdf_mvc_app\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B25D026-A840-4154-8F23-61D455F2BFC0}|PDF_MVC_App\\PDF_MVC_App.csproj|d:\\princerecent\\internaldotnetprojects\\practicefilesinc#\\pdf_mvc_app\\pdf_mvc_app\\views\\pdfdocuments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B25D026-A840-4154-8F23-61D455F2BFC0}|PDF_MVC_App\\PDF_MVC_App.csproj|solutionrelative:pdf_mvc_app\\views\\pdfdocuments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B25D026-A840-4154-8F23-61D455F2BFC0}|PDF_MVC_App\\PDF_MVC_App.csproj|d:\\princerecent\\internaldotnetprojects\\practicefilesinc#\\pdf_mvc_app\\pdf_mvc_app\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B25D026-A840-4154-8F23-61D455F2BFC0}|PDF_MVC_App\\PDF_MVC_App.csproj|solutionrelative:pdf_mvc_app\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B25D026-A840-4154-8F23-61D455F2BFC0}|PDF_MVC_App\\PDF_MVC_App.csproj|d:\\princerecent\\internaldotnetprojects\\practicefilesinc#\\pdf_mvc_app\\pdf_mvc_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B25D026-A840-4154-8F23-61D455F2BFC0}|PDF_MVC_App\\PDF_MVC_App.csproj|solutionrelative:pdf_mvc_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B25D026-A840-4154-8F23-61D455F2BFC0}|PDF_MVC_App\\PDF_MVC_App.csproj|d:\\princerecent\\internaldotnetprojects\\practicefilesinc#\\pdf_mvc_app\\pdf_mvc_app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6B25D026-A840-4154-8F23-61D455F2BFC0}|PDF_MVC_App\\PDF_MVC_App.csproj|solutionrelative:pdf_mvc_app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B25D026-A840-4154-8F23-61D455F2BFC0}|PDF_MVC_App\\PDF_MVC_App.csproj|d:\\princerecent\\internaldotnetprojects\\practicefilesinc#\\pdf_mvc_app\\pdf_mvc_app\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6B25D026-A840-4154-8F23-61D455F2BFC0}|PDF_MVC_App\\PDF_MVC_App.csproj|solutionrelative:pdf_mvc_app\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B25D026-A840-4154-8F23-61D455F2BFC0}|PDF_MVC_App\\PDF_MVC_App.csproj|d:\\princerecent\\internaldotnetprojects\\practicefilesinc#\\pdf_mvc_app\\pdf_mvc_app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B25D026-A840-4154-8F23-61D455F2BFC0}|PDF_MVC_App\\PDF_MVC_App.csproj|solutionrelative:pdf_mvc_app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B25D026-A840-4154-8F23-61D455F2BFC0}|PDF_MVC_App\\PDF_MVC_App.csproj|d:\\princerecent\\internaldotnetprojects\\practicefilesinc#\\pdf_mvc_app\\pdf_mvc_app\\views\\pdfdocuments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B25D026-A840-4154-8F23-61D455F2BFC0}|PDF_MVC_App\\PDF_MVC_App.csproj|solutionrelative:pdf_mvc_app\\views\\pdfdocuments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B25D026-A840-4154-8F23-61D455F2BFC0}|PDF_MVC_App\\PDF_MVC_App.csproj|d:\\princerecent\\internaldotnetprojects\\practicefilesinc#\\pdf_mvc_app\\pdf_mvc_app\\migrations\\20240411062022_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B25D026-A840-4154-8F23-61D455F2BFC0}|PDF_MVC_App\\PDF_MVC_App.csproj|solutionrelative:pdf_mvc_app\\migrations\\20240411062022_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PdfDocument.cs",
+              "DocumentMoniker": "D:\\PrinceRecent\\InternalDotNetProjects\\PracticeFilesInC#\\PDF_MVC_App\\PDF_MVC_App\\Models\\PdfDocument.cs",
+              "RelativeDocumentMoniker": "PDF_MVC_App\\Models\\PdfDocument.cs",
+              "ToolTip": "D:\\PrinceRecent\\InternalDotNetProjects\\PracticeFilesInC#\\PDF_MVC_App\\PDF_MVC_App\\Models\\PdfDocument.cs",
+              "RelativeToolTip": "PDF_MVC_App\\Models\\PdfDocument.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T06:01:56.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PdfDocumentsController.cs",
+              "DocumentMoniker": "D:\\PrinceRecent\\InternalDotNetProjects\\PracticeFilesInC#\\PDF_MVC_App\\PDF_MVC_App\\Controllers\\PdfDocumentsController.cs",
+              "RelativeDocumentMoniker": "PDF_MVC_App\\Controllers\\PdfDocumentsController.cs",
+              "ToolTip": "D:\\PrinceRecent\\InternalDotNetProjects\\PracticeFilesInC#\\PDF_MVC_App\\PDF_MVC_App\\Controllers\\PdfDocumentsController.cs",
+              "RelativeToolTip": "PDF_MVC_App\\Controllers\\PdfDocumentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T06:15:51.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\PrinceRecent\\InternalDotNetProjects\\PracticeFilesInC#\\PDF_MVC_App\\PDF_MVC_App\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "PDF_MVC_App\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\PrinceRecent\\InternalDotNetProjects\\PracticeFilesInC#\\PDF_MVC_App\\PDF_MVC_App\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "PDF_MVC_App\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T06:13:06.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PDF_MVC_AppContext.cs",
+              "DocumentMoniker": "D:\\PrinceRecent\\InternalDotNetProjects\\PracticeFilesInC#\\PDF_MVC_App\\PDF_MVC_App\\Data\\PDF_MVC_AppContext.cs",
+              "RelativeDocumentMoniker": "PDF_MVC_App\\Data\\PDF_MVC_AppContext.cs",
+              "ToolTip": "D:\\PrinceRecent\\InternalDotNetProjects\\PracticeFilesInC#\\PDF_MVC_App\\PDF_MVC_App\\Data\\PDF_MVC_AppContext.cs",
+              "RelativeToolTip": "PDF_MVC_App\\Data\\PDF_MVC_AppContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T06:16:00.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PrinceRecent\\InternalDotNetProjects\\PracticeFilesInC#\\PDF_MVC_App\\PDF_MVC_App\\Views\\PdfDocuments\\Index.cshtml",
+              "RelativeDocumentMoniker": "PDF_MVC_App\\Views\\PdfDocuments\\Index.cshtml",
+              "ToolTip": "D:\\PrinceRecent\\InternalDotNetProjects\\PracticeFilesInC#\\PDF_MVC_App\\PDF_MVC_App\\Views\\PdfDocuments\\Index.cshtml",
+              "RelativeToolTip": "PDF_MVC_App\\Views\\PdfDocuments\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T06:27:57.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\PrinceRecent\\InternalDotNetProjects\\PracticeFilesInC#\\PDF_MVC_App\\PDF_MVC_App\\Views\\PdfDocuments\\Create.cshtml",
+              "RelativeDocumentMoniker": "PDF_MVC_App\\Views\\PdfDocuments\\Create.cshtml",
+              "ToolTip": "D:\\PrinceRecent\\InternalDotNetProjects\\PracticeFilesInC#\\PDF_MVC_App\\PDF_MVC_App\\Views\\PdfDocuments\\Create.cshtml",
+              "RelativeToolTip": "PDF_MVC_App\\Views\\PdfDocuments\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T07:33:06.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PrinceRecent\\InternalDotNetProjects\\PracticeFilesInC#\\PDF_MVC_App\\PDF_MVC_App\\appsettings.json",
+              "RelativeDocumentMoniker": "PDF_MVC_App\\appsettings.json",
+              "ToolTip": "D:\\PrinceRecent\\InternalDotNetProjects\\PracticeFilesInC#\\PDF_MVC_App\\PDF_MVC_App\\appsettings.json",
+              "RelativeToolTip": "PDF_MVC_App\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-11T06:07:54.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\PrinceRecent\\InternalDotNetProjects\\PracticeFilesInC#\\PDF_MVC_App\\PDF_MVC_App\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PDF_MVC_App\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\PrinceRecent\\InternalDotNetProjects\\PracticeFilesInC#\\PDF_MVC_App\\PDF_MVC_App\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PDF_MVC_App\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T06:06:28.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\PrinceRecent\\InternalDotNetProjects\\PracticeFilesInC#\\PDF_MVC_App\\PDF_MVC_App\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "PDF_MVC_App\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\PrinceRecent\\InternalDotNetProjects\\PracticeFilesInC#\\PDF_MVC_App\\PDF_MVC_App\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "PDF_MVC_App\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-12T05:24:17.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PrinceRecent\\InternalDotNetProjects\\PracticeFilesInC#\\PDF_MVC_App\\PDF_MVC_App\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PDF_MVC_App\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\PrinceRecent\\InternalDotNetProjects\\PracticeFilesInC#\\PDF_MVC_App\\PDF_MVC_App\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PDF_MVC_App\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T06:07:01.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\PrinceRecent\\InternalDotNetProjects\\PracticeFilesInC#\\PDF_MVC_App\\PDF_MVC_App\\Views\\PdfDocuments\\Delete.cshtml",
+              "RelativeDocumentMoniker": "PDF_MVC_App\\Views\\PdfDocuments\\Delete.cshtml",
+              "ToolTip": "D:\\PrinceRecent\\InternalDotNetProjects\\PracticeFilesInC#\\PDF_MVC_App\\PDF_MVC_App\\Views\\PdfDocuments\\Delete.cshtml",
+              "RelativeToolTip": "PDF_MVC_App\\Views\\PdfDocuments\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T07:12:08.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\PrinceRecent\\InternalDotNetProjects\\PracticeFilesInC#\\PDF_MVC_App\\PDF_MVC_App\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "PDF_MVC_App\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\PrinceRecent\\InternalDotNetProjects\\PracticeFilesInC#\\PDF_MVC_App\\PDF_MVC_App\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "PDF_MVC_App\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T06:13:12.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PrinceRecent\\InternalDotNetProjects\\PracticeFilesInC#\\PDF_MVC_App\\PDF_MVC_App\\Program.cs",
+              "RelativeDocumentMoniker": "PDF_MVC_App\\Program.cs",
+              "ToolTip": "D:\\PrinceRecent\\InternalDotNetProjects\\PracticeFilesInC#\\PDF_MVC_App\\PDF_MVC_App\\Program.cs",
+              "RelativeToolTip": "PDF_MVC_App\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T06:07:21.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240411062022_init.cs",
+              "DocumentMoniker": "D:\\PrinceRecent\\InternalDotNetProjects\\PracticeFilesInC#\\PDF_MVC_App\\PDF_MVC_App\\Migrations\\20240411062022_init.cs",
+              "RelativeDocumentMoniker": "PDF_MVC_App\\Migrations\\20240411062022_init.cs",
+              "ToolTip": "D:\\PrinceRecent\\InternalDotNetProjects\\PracticeFilesInC#\\PDF_MVC_App\\PDF_MVC_App\\Migrations\\20240411062022_init.cs",
+              "RelativeToolTip": "PDF_MVC_App\\Migrations\\20240411062022_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T06:20:22.923Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

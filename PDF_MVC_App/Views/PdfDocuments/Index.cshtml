@@ -1,0 +1,145 @@
+﻿@model IEnumerable<PDF_MVC_App.Models.PdfDocument>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+ @* @model PdfDocument *@
+
+<form method="post" enctype="multipart/form-data" asp-controller="PdfDocuments" asp-action="Upload">
+    <input multiple type="file" name="file" />
+    <button type="submit" class="btn btn-success">Upload</button>
+</form>
+
+
+@* @{
+    <div>
+        <h4>Uploaded PDF</h4>
+        <a asp-controller="PdfDocuments" asp-action="Download" asp-route-id="1">Download PDF</a>
+    </div>
+} *@
+
+<h1 class="mt-4">FILES STORAGE APP</h1>
+
+<p>
+    @* <a asp-action="Create">Create New</a> *@
+</p>
+<table class="table">
+    <thead>
+        <tr>
+
+            <th>
+                S.No
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FileName)
+            </th>
+            <th>
+                Actions
+            </th>
+@*             <th>Download</th>
+ *@          @*   <th>
+                @Html.DisplayNameFor(model => model.Content)
+            </th> *@
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+            <tr>
+                <td>
+                    @(Model.ToList().IndexOf(item) + 1)
+                </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.FileName)
+            </td>
+         @*    <td>
+                @Html.DisplayFor(modelItem => item.Content)
+            </td> *@
+            <td>
+                    <span>
+                        <a asp-controller="PdfDocuments" asp-action="Download" asp-route-id="@item.Id">Download PDF</a>
+                    </span>
+                    <span class="mx-4">
+                        <a asp-controller="PdfDocuments" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                    </span>
+
+                @* <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> | *@
+                @* <a asp-action="Details" asp-route-id="@item.Id">Details</a> | *@
+                    
+            </td>
+          @*   <td>
+                    <a asp-controller="PdfDocuments" asp-action="Download" asp-route-id="@item.Id">Download PDF</a>
+            </td> *@
+        </tr>
+}
+    </tbody>
+</table>
+
+
+
+
+@if (ViewBag.TotalPages > 1)
+{
+    <ul class="pagination">
+       
+        @for (var i = 1; i <= ViewBag.TotalPages; i++)
+        {
+            if (i == 1)
+            {
+                @if (ViewBag.CurrentPage>1)
+                {
+                    <li class="page-item">
+                        <a class="page-link" href="@Url.Action("Index", new { page = ViewBag.CurrentPage-1, pageSize = ViewBag.PageSize })">Prev</a>
+                    </li>
+                }
+               
+                <li class="page-item @(ViewBag.CurrentPage == i ? "active" : "")">
+                    <a class="page-link" href="@Url.Action("Index", new { page = i, pageSize = ViewBag.PageSize })">@i</a>
+                </li>
+            }
+            else if (i > 1 && i < ViewBag.TotalPages)
+            {
+                <li class="page-item @(ViewBag.CurrentPage == i ? "active" : "")">
+                    <a class="page-link" href="@Url.Action("Index", new { page = i, pageSize = ViewBag.PageSize })">@i</a>
+                </li>
+            }
+            else
+            {
+                <li class="page-item @(ViewBag.CurrentPage == i ? "active" : "")">
+                    <a class="page-link" href="@Url.Action("Index", new { page = i, pageSize = ViewBag.PageSize })">@i</a>
+                </li>
+                @if (ViewBag.CurrentPage < ViewBag.TotalPages)
+                {
+                    <li class="page-item">
+                        <a class="page-link" href="@Url.Action("Index", new { page = ViewBag.CurrentPage+1, pageSize = ViewBag.PageSize })">Next</a>
+                    </li>
+                   
+                }
+                <li>
+                    <input style="width:40px; height:38px" class="mx-4" type="number" placeholder="" onkeypress="pagination(event)" />
+                </li>
+
+
+                
+            }
+
+        }
+    </ul>
+}
+
+<script>
+    function pagination(e) {
+        console.log(e.code)
+        if (e.code === "Enter" || e.code === "NumpadEnter") {
+            let value = e.target.value;
+            // Construct the URL using Razor syntax
+            let nextPageUrl = '@Url.Action("Index", new { page = "VALUE", pageSize = ViewBag.pageSize })';
+            // Replace "VALUE" in the URL with the actual value
+            nextPageUrl = nextPageUrl.replace("VALUE", value);
+            // Redirect to the constructed URL
+            window.location.href = nextPageUrl;
+        }
+    }
+</script>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PDF_MVC_App.props" />
+</Project>
